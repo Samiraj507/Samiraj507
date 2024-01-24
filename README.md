@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samiraj507
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer informations stystem 
+- 🌱 I’m currently learning Computer programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me samiraj507@gmail.com
 
